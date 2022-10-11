@@ -1,0 +1,7 @@
+## 格式参照我的世界基岩版语言文件格式
+## 请注意，这里的编码是UTF-8，不是GBK
+## 请注意，用\n表示分行
+
+ui.title=万花	# 窗口标题
+ui.version.number=0.0	# 版本号
+ui.version.name=甲	# 版本名称
